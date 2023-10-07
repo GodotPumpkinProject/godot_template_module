@@ -24,6 +24,6 @@ rm rename_module.sh
 rm -rf .git .gitignore
 
 cd ..
-mv godot_blank_module ${module_name}
+mv godot_template_module ${module_name}
 
 echo "Module rename complete."
